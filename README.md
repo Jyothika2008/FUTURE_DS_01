@@ -166,4 +166,4 @@ The main analysis file is:
 
 **Jyothika J.**
 
-currently pursuing B.Tech in Computer Science and Engineering with specialization in Data Science
+Currently pursuing B.Tech in Computer Science and Engineering with specialization in Data Science

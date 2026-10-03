@@ -164,6 +164,6 @@ The main analysis file is:
 
 ## 👩‍💻 Author
 
-**Jyothika J.**
+**Jyothika J**
 
 Currently pursuing B.Tech in Computer Science and Engineering with specialization in Data Science
